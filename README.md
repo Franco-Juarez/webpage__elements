@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](/screenshot.jpg)
+![Screenshot](images/screenshot.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Juarrison/elements.git)
-- Live Site URL: [Add live site URL here](https://silver-raindrop-864390.netlify.app/)
+- Solution URL: [Repositorio](https://github.com/Juarrison/elements.git)
+- Live Site URL: [Sitio Web](https://silver-raindrop-864390.netlify.app/)
 
 ## My process
 
